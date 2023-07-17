@@ -18,7 +18,7 @@ Part II (90 min)
 
 ## Installation
 
-Installation Instructions are in Notbooks: 
+Installation instructions are in these Notebooks: 
 
 * EP02_Installation_Windows.ipynb       
 * EP03_Installation_MacOS.ipynb 
