@@ -2,6 +2,7 @@
 
 https://github.com/martinchristen/EP2023Tutorial
 
+Monday July 17, 2023
 
 Part I (90 min)
 13:45 - 15:15 Club A
