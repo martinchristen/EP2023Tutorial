@@ -1,4 +1,6 @@
-# Geospatial Data Processing in Python: A Comprehensive Tutorial
+# EuroPython 2023 
+
+## Geospatial Data Processing in Python: A Comprehensive Tutorial
 
 https://github.com/martinchristen/EP2023Tutorial
 
